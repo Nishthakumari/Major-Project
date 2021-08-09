@@ -1,0 +1,12 @@
+{
+    "left-router": [
+        {
+            "ifb-left-router-right-router-0": {}
+        }
+    ],
+    "right-router": [
+        {
+            "ifb-right-router-left-router-0": {}
+        }
+    ]
+}
