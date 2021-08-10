@@ -1,0 +1,6 @@
+Sending rate: 
+->Sending rate in fqpie increased really high that others
+Drop:
+-> Dropping rate in fqcodel is really less than others
+Backlog:
+-> Pie and Fqpie became zero after cetain period of time then remained 0 unlike codel and fqcodel.
